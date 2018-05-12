@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38229'
     url: http://www.gutenberg.org/2009/agents/38229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36360#Faithful-MargaretA-Novel
 gutenberg_issued: '2011-06-08'
 gutenberg_type: Text
 identifiers:
