@@ -1,0 +1,25 @@
+_repo: Faithful-MargaretA-Novel_36360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Simpson, J. M., Mrs.
+    alias: Ashmore, Annie
+    gutenberg_agent_id: '38229'
+    url: http://www.gutenberg.org/2009/agents/38229
+description: ''
+gutenberg_issued: '2011-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Faithful Margaret: A Novel'
+url: http://www.gutenberg.org/ebooks/36360
